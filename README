@@ -1,6 +1,6 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Bao's tip*
 
-**Name of your app** is a tip calculator application for iOS.
+**Bao's tip** is a tip calculator application for iOS.
 
 Submitted by: **Bao Liang**
 
@@ -10,17 +10,25 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] Settings page to change the default tip percentage.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] Settings page to change the default tip percentage.
 
 The following **optional** features are implemented:
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] Remembering the bill amount across app restarts (if <10mins)
+* [] Using locale-specific currency and currency thousands separators.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+1. Save and Clear function in setting page
+
+- [x] List anything else that you can get done to improve the app functionality!
+
+1. UI and UX design
+2. more options for default tip percentage
+3. animaiton
+4. more functionality
+5. logo design  
 
 ## Video Walkthrough 
 
@@ -32,7 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The biggest challege is I have to review swift so it took me a while to debug some part of code. Especially the connection between UI and controller files. Other than that, it was pretty straight forward. 
 
 ## License
 
